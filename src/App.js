@@ -21,7 +21,7 @@ import './App.css';
 //   </div>
 // );
 
-class App extends Component {
+class App extends React.Component {
   render() {
     return (
       <div className="App">
