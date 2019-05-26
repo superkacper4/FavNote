@@ -1,5 +1,11 @@
 import React from 'react';
+import Button from 'components/Button/Button';
 
-const Root = () => <h1>123</h1>;
+const Root = () => (
+  <div>
+    123
+    <Button>123</Button>
+  </div>
+);
 
 export default Root;
